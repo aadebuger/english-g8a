@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八年级上 英语 U6</title>
+    <link>https://aadebuger.github.io/english-g8a/U6/</link>
+    <atom:link href="https://aadebuger.github.io/english-g8a/U6/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>八年级上 英语 第 6 单元，共 8 课</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 08:32:39 +0000</lastBuildDate>
+    <item>
+      <title>U6 P1 Viewing Future</title>
+      <description>Unit 6 Part 1 — Viewing Future</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/045_U6_P1_Viewing_Future.m4a" length="11668181" type="audio/mp4"/>
+      <guid isPermaLink="false">045_U6_P1_Viewing_Future.m4a</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P2 Speaking Future travel</title>
+      <description>Unit 6 Part 2 — Speaking Future travel</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/046_U6_P2_Speaking_Future_travel.m4a" length="11462167" type="audio/mp4"/>
+      <guid isPermaLink="false">046_U6_P2_Speaking_Future_travel.m4a</guid>
+      <pubDate>Sat, 17 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P3 Reading Future living 1</title>
+      <description>Unit 6 Part 3 — Reading Future living 1</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/047_U6_P3_Reading_Future_living_1.m4a" length="11063011" type="audio/mp4"/>
+      <guid isPermaLink="false">047_U6_P3_Reading_Future_living_1.m4a</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P4 Reading Future living 2</title>
+      <description>Unit 6 Part 4 — Reading Future living 2</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/048_U6_P4_Reading_Future_living_2.m4a" length="12145237" type="audio/mp4"/>
+      <guid isPermaLink="false">048_U6_P4_Reading_Future_living_2.m4a</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P5 Grammar Adverbial</title>
+      <description>Unit 6 Part 5 — Grammar Adverbial</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/049_U6_P5_Grammar_Adverbial.m4a" length="8911263" type="audio/mp4"/>
+      <guid isPermaLink="false">049_U6_P5_Grammar_Adverbial.m4a</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P6 Writing My view of the</title>
+      <description>Unit 6 Part 6 — Writing My view of the</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/050_U6_P6_Writing_My_view_of_the.m4a" length="10375419" type="audio/mp4"/>
+      <guid isPermaLink="false">050_U6_P6_Writing_My_view_of_the.m4a</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P7 Discovery The future as</title>
+      <description>Unit 6 Part 7 — Discovery The future as</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/051_U6_P7_Discovery_The_future_as.m4a" length="8953399" type="audio/mp4"/>
+      <guid isPermaLink="false">051_U6_P7_Discovery_The_future_as.m4a</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U6 P8 Revision</title>
+      <description>Unit 6 Part 8 — Revision</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/052_U6_P8_Revision.m4a" length="9420164" type="audio/mp4"/>
+      <guid isPermaLink="false">052_U6_P8_Revision.m4a</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

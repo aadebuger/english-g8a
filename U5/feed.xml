@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八年级上 英语 U5</title>
+    <link>https://aadebuger.github.io/english-g8a/U5/</link>
+    <atom:link href="https://aadebuger.github.io/english-g8a/U5/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>八年级上 英语 第 5 单元，共 8 课</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 08:32:39 +0000</lastBuildDate>
+    <item>
+      <title>U5 P1 Viewing Great teams</title>
+      <description>Unit 5 Part 1 — Viewing Great teams</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/037_U5_P1_Viewing_Great_teams.m4a" length="12961256" type="audio/mp4"/>
+      <guid isPermaLink="false">037_U5_P1_Viewing_Great_teams.m4a</guid>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P2 Speaking Challenges in</title>
+      <description>Unit 5 Part 2 — Speaking Challenges in</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/038_U5_P2_Speaking_Challenges_in.m4a" length="12556944" type="audio/mp4"/>
+      <guid isPermaLink="false">038_U5_P2_Speaking_Challenges_in.m4a</guid>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P3 Reading Team spirit 1</title>
+      <description>Unit 5 Part 3 — Reading Team spirit 1</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/039_U5_P3_Reading_Team_spirit_1.m4a" length="11239111" type="audio/mp4"/>
+      <guid isPermaLink="false">039_U5_P3_Reading_Team_spirit_1.m4a</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P4 Reading Team spirit 2</title>
+      <description>Unit 5 Part 4 — Reading Team spirit 2</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/040_U5_P4_Reading_Team_spirit_2.m4a" length="9381190" type="audio/mp4"/>
+      <guid isPermaLink="false">040_U5_P4_Reading_Team_spirit_2.m4a</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P5 Grammar Adverbial</title>
+      <description>Unit 5 Part 5 — Grammar Adverbial</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/041_U5_P5_Grammar_Adverbial.m4a" length="10439854" type="audio/mp4"/>
+      <guid isPermaLink="false">041_U5_P5_Grammar_Adverbial.m4a</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P6 Writing My teamwork</title>
+      <description>Unit 5 Part 6 — Writing My teamwork</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/042_U5_P6_Writing_My_teamwork.m4a" length="12556998" type="audio/mp4"/>
+      <guid isPermaLink="false">042_U5_P6_Writing_My_teamwork.m4a</guid>
+      <pubDate>Tue, 13 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P7 Discovery Teamwork in</title>
+      <description>Unit 5 Part 7 — Discovery Teamwork in</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/043_U5_P7_Discovery_Teamwork_in.m4a" length="12830482" type="audio/mp4"/>
+      <guid isPermaLink="false">043_U5_P7_Discovery_Teamwork_in.m4a</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U5 P8 Revision</title>
+      <description>Unit 5 Part 8 — Revision</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/044_U5_P8_Revision.m4a" length="16017022" type="audio/mp4"/>
+      <guid isPermaLink="false">044_U5_P8_Revision.m4a</guid>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

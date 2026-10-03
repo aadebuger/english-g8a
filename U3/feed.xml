@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八年级上 英语 U3</title>
+    <link>https://aadebuger.github.io/english-g8a/U3/</link>
+    <atom:link href="https://aadebuger.github.io/english-g8a/U3/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>八年级上 英语 第 3 单元，共 8 课</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 08:32:39 +0000</lastBuildDate>
+    <item>
+      <title>U3 P1 Viewing An inborn</title>
+      <description>Unit 3 Part 1 — Viewing An inborn</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/017_U3_P1_Viewing_An_inborn.m4a" length="8532317" type="audio/mp4"/>
+      <guid isPermaLink="false">017_U3_P1_Viewing_An_inborn.m4a</guid>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P2 Speaking Keeping your</title>
+      <description>Unit 3 Part 2 — Speaking Keeping your</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/018_U3_P2_Speaking_Keeping_your.m4a" length="8951756" type="audio/mp4"/>
+      <guid isPermaLink="false">018_U3_P2_Speaking_Keeping_your.m4a</guid>
+      <pubDate>Sat, 19 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P3 Reading Benefits of</title>
+      <description>Unit 3 Part 3 — Reading Benefits of</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/019_U3_P3_Reading_Benefits_of.m4a" length="10194296" type="audio/mp4"/>
+      <guid isPermaLink="false">019_U3_P3_Reading_Benefits_of.m4a</guid>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P4 Reading Benefits of</title>
+      <description>Unit 3 Part 4 — Reading Benefits of</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/020_U3_P4_Reading_Benefits_of.m4a" length="9677441" type="audio/mp4"/>
+      <guid isPermaLink="false">020_U3_P4_Reading_Benefits_of.m4a</guid>
+      <pubDate>Mon, 21 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P5 Grammar Infinitives</title>
+      <description>Unit 3 Part 5 — Grammar Infinitives</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/021_U3_P5_Grammar_Infinitives.m4a" length="10304291" type="audio/mp4"/>
+      <guid isPermaLink="false">021_U3_P5_Grammar_Infinitives.m4a</guid>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P6 Writing A healthy dose</title>
+      <description>Unit 3 Part 6 — Writing A healthy dose</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/022_U3_P6_Writing_A_healthy_dose.m4a" length="10125310" type="audio/mp4"/>
+      <guid isPermaLink="false">022_U3_P6_Writing_A_healthy_dose.m4a</guid>
+      <pubDate>Wed, 23 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P7 Discovery Curious minds</title>
+      <description>Unit 3 Part 7 — Discovery Curious minds</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/023_U3_P7_Discovery_Curious_minds.m4a" length="9465910" type="audio/mp4"/>
+      <guid isPermaLink="false">023_U3_P7_Discovery_Curious_minds.m4a</guid>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U3 P8 Revision</title>
+      <description>Unit 3 Part 8 — Revision</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/024_U3_P8_Revision.m4a" length="10212112" type="audio/mp4"/>
+      <guid isPermaLink="false">024_U3_P8_Revision.m4a</guid>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

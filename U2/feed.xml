@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八年级上 英语 U2</title>
+    <link>https://aadebuger.github.io/english-g8a/U2/</link>
+    <atom:link href="https://aadebuger.github.io/english-g8a/U2/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>八年级上 英语 第 2 单元，共 8 课</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 08:32:39 +0000</lastBuildDate>
+    <item>
+      <title>U2 P1 Viewing Digital products</title>
+      <description>Unit 2 Part 1 — Viewing Digital products</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/009_U2_P1_Viewing_Digital_products.m4a" length="9022377" type="audio/mp4"/>
+      <guid isPermaLink="false">009_U2_P1_Viewing_Digital_products.m4a</guid>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P2 Speaking Complaints</title>
+      <description>Unit 2 Part 2 — Speaking Complaints</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/010_U2_P2_Speaking_Complaints.m4a" length="9795739" type="audio/mp4"/>
+      <guid isPermaLink="false">010_U2_P2_Speaking_Complaints.m4a</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P3 Reading Digital</title>
+      <description>Unit 2 Part 3 — Reading Digital</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/011_U2_P3_Reading_Digital.m4a" length="9385176" type="audio/mp4"/>
+      <guid isPermaLink="false">011_U2_P3_Reading_Digital.m4a</guid>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P4 Reading Digital</title>
+      <description>Unit 2 Part 4 — Reading Digital</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/012_U2_P4_Reading_Digital.m4a" length="9126413" type="audio/mp4"/>
+      <guid isPermaLink="false">012_U2_P4_Reading_Digital.m4a</guid>
+      <pubDate>Sun, 13 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P5 Grammar Adverbial</title>
+      <description>Unit 2 Part 5 — Grammar Adverbial</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/013_U2_P5_Grammar_Adverbial.m4a" length="10621157" type="audio/mp4"/>
+      <guid isPermaLink="false">013_U2_P5_Grammar_Adverbial.m4a</guid>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P6 Writing My views on</title>
+      <description>Unit 2 Part 6 — Writing My views on</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/014_U2_P6_Writing_My_views_on.m4a" length="11426980" type="audio/mp4"/>
+      <guid isPermaLink="false">014_U2_P6_Writing_My_views_on.m4a</guid>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P7 Discovery Different</title>
+      <description>Unit 2 Part 7 — Discovery Different</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/015_U2_P7_Discovery_Different.m4a" length="9282290" type="audio/mp4"/>
+      <guid isPermaLink="false">015_U2_P7_Discovery_Different.m4a</guid>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U2 P8 Revision</title>
+      <description>Unit 2 Part 8 — Revision</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/016_U2_P8_Revision.m4a" length="10342597" type="audio/mp4"/>
+      <guid isPermaLink="false">016_U2_P8_Revision.m4a</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

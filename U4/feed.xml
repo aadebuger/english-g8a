@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八年级上 英语 U4</title>
+    <link>https://aadebuger.github.io/english-g8a/U4/</link>
+    <atom:link href="https://aadebuger.github.io/english-g8a/U4/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>八年级上 英语 第 4 单元，共 8 课</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 08:32:39 +0000</lastBuildDate>
+    <item>
+      <title>U4 P1 Viewing Cities then and</title>
+      <description>Unit 4 Part 1 — Viewing Cities then and</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/029_U4_P1_Viewing_Cities_then_and.m4a" length="10928406" type="audio/mp4"/>
+      <guid isPermaLink="false">029_U4_P1_Viewing_Cities_then_and.m4a</guid>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P2 Speaking Old things</title>
+      <description>Unit 4 Part 2 — Speaking Old things</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/030_U4_P2_Speaking_Old_things.m4a" length="10976638" type="audio/mp4"/>
+      <guid isPermaLink="false">030_U4_P2_Speaking_Old_things.m4a</guid>
+      <pubDate>Thu, 01 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P3 Reading A page of</title>
+      <description>Unit 4 Part 3 — Reading A page of</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/031_U4_P3_Reading_A_page_of.m4a" length="9577349" type="audio/mp4"/>
+      <guid isPermaLink="false">031_U4_P3_Reading_A_page_of.m4a</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P4 Reading A page of</title>
+      <description>Unit 4 Part 4 — Reading A page of</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/032_U4_P4_Reading_A_page_of.m4a" length="9022445" type="audio/mp4"/>
+      <guid isPermaLink="false">032_U4_P4_Reading_A_page_of.m4a</guid>
+      <pubDate>Sat, 03 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P5 Grammar Adverbial</title>
+      <description>Unit 4 Part 5 — Grammar Adverbial</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/033_U4_P5_Grammar_Adverbial.m4a" length="9816325" type="audio/mp4"/>
+      <guid isPermaLink="false">033_U4_P5_Grammar_Adverbial.m4a</guid>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P6 Writing Changes in our</title>
+      <description>Unit 4 Part 6 — Writing Changes in our</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/034_U4_P6_Writing_Changes_in_our.m4a" length="10524239" type="audio/mp4"/>
+      <guid isPermaLink="false">034_U4_P6_Writing_Changes_in_our.m4a</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P7 Discovery New for old</title>
+      <description>Unit 4 Part 7 — Discovery New for old</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/035_U4_P7_Discovery_New_for_old.m4a" length="11209833" type="audio/mp4"/>
+      <guid isPermaLink="false">035_U4_P7_Discovery_New_for_old.m4a</guid>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U4 P8 Revision</title>
+      <description>Unit 4 Part 8 — Revision</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/036_U4_P8_Revision.m4a" length="12519557" type="audio/mp4"/>
+      <guid isPermaLink="false">036_U4_P8_Revision.m4a</guid>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

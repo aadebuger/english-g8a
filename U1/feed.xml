@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>八年级上 英语 U1</title>
+    <link>https://aadebuger.github.io/english-g8a/U1/</link>
+    <atom:link href="https://aadebuger.github.io/english-g8a/U1/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>八年级上 英语 第 1 单元，共 8 课</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Oct 2026 08:32:39 +0000</lastBuildDate>
+    <item>
+      <title>U1 P1 Viewing Facts about</title>
+      <description>Unit 1 Part 1 — Viewing Facts about</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/001_U1_P1_Viewing_Facts_about.m4a" length="12054128" type="audio/mp4"/>
+      <guid isPermaLink="false">001_U1_P1_Viewing_Facts_about.m4a</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P2 Speaking Water in</title>
+      <description>Unit 1 Part 2 — Speaking Water in</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/002_U1_P2_Speaking_Water_in.m4a" length="11394767" type="audio/mp4"/>
+      <guid isPermaLink="false">002_U1_P2_Speaking_Water_in.m4a</guid>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P3 Reading The land of</title>
+      <description>Unit 1 Part 3 — Reading The land of</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/003_U1_P3_Reading_The_land_of.m4a" length="11453117" type="audio/mp4"/>
+      <guid isPermaLink="false">003_U1_P3_Reading_The_land_of.m4a</guid>
+      <pubDate>Fri, 04 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P4 Reading The land of</title>
+      <description>Unit 1 Part 4 — Reading The land of</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/004_U1_P4_Reading_The_land_of.m4a" length="12412123" type="audio/mp4"/>
+      <guid isPermaLink="false">004_U1_P4_Reading_The_land_of.m4a</guid>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P5 Grammar Adverbial</title>
+      <description>Unit 1 Part 5 — Grammar Adverbial</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/005_U1_P5_Grammar_Adverbial.m4a" length="11427062" type="audio/mp4"/>
+      <guid isPermaLink="false">005_U1_P5_Grammar_Adverbial.m4a</guid>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P6 Writing Water protection</title>
+      <description>Unit 1 Part 6 — Writing Water protection</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/006_U1_P6_Writing_Water_protection.m4a" length="11288163" type="audio/mp4"/>
+      <guid isPermaLink="false">006_U1_P6_Writing_Water_protection.m4a</guid>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P7 Discovery New ways to</title>
+      <description>Unit 1 Part 7 — Discovery New ways to</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/007_U1_P7_Discovery_New_ways_to.m4a" length="11451008" type="audio/mp4"/>
+      <guid isPermaLink="false">007_U1_P7_Discovery_New_ways_to.m4a</guid>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>U1 P8 Revision</title>
+      <description>Unit 1 Part 8 — Revision</description>
+      <enclosure url="https://github.com/aadebuger/english-g8a/releases/download/g8a-audio/008_U1_P8_Revision.m4a" length="11994219" type="audio/mp4"/>
+      <guid isPermaLink="false">008_U1_P8_Revision.m4a</guid>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
