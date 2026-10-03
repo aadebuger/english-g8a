@@ -17,5 +17,14 @@ for U in "$@"; do
     *) echo "没有 Unit $U"; exit 1 ;;
   esac
   echo "== Unit $U"
-  eval gh release upload $TAG --clobber $FILES
+  eval set -- $FILES
+  N=$#; I=0
+  for F in "$@"; do
+    I=$((I+1))
+    SZ=$(du -h "$F" | cut -f1)
+    printf '[%d/%d] %s (%s) ... ' $I $N "$(basename "$F")" "$SZ"
+    T0=$(date +%s)
+    gh release upload $TAG --clobber "$F" >/dev/null
+    echo "$(( $(date +%s) - T0 ))s"
+  done
 done
